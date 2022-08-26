@@ -9,7 +9,7 @@ const EditarCliente = () => {
   
   useEffect( ()=>{
     const obtenerCliente = async ()=>{
-      const url = `http://localhost:4000/clientes/${id}`
+      const url = `${import.meta.env.VITE_API_URL}/${id}`
       
       try {
         const respuesta = await fetch(url)

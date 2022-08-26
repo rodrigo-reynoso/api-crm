@@ -7,7 +7,7 @@ const VerCliente = () => {
     const [cargando,setCargando] = useState(true)
     const id = useParams().id
     useEffect(()=>{
-        const url = `http://localhost:4000/clientes/${id}`
+        const url = `${import.meta.env.VITE_API_URL}/${id}`
         const ObtenerClienteAPI = async () =>{
             try {
                 

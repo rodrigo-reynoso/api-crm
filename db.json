@@ -25,14 +25,6 @@
       "id": 4
     },
     {
-      "nombre": "Jacinto",
-      "empresa": "Juanjo juegazo",
-      "email": "correo@correo.com",
-      "telefono": "45665099",
-      "nota": "Ayuda mucho a la empresa\n",
-      "id": 5
-    },
-    {
       "nombre": "Eugenio",
       "empresa": "Robotini",
       "email": "correo@correo.com",
