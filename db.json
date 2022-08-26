@@ -1,0 +1,44 @@
+{
+  "clientes": [
+    {
+      "nombre": "Hugo ACTUALIZADOOO!!!!",
+      "empresa": "furty",
+      "email": "correo@correo.com",
+      "telefono": "",
+      "nota": "",
+      "id": 1
+    },
+    {
+      "nombre": "Rogelio",
+      "empresa": "fiambres",
+      "email": "fiambres@fiambrespn.com",
+      "telefono": "23452345452345",
+      "nota": "Cliente de fiambres paulina",
+      "id": 3
+    },
+    {
+      "nombre": "Dario",
+      "empresa": "Westerbiron",
+      "email": "west@west.com",
+      "telefono": "34948578568",
+      "nota": "Debe dinero",
+      "id": 4
+    },
+    {
+      "nombre": "Jacinto",
+      "empresa": "Juanjo juegazo",
+      "email": "correo@correo.com",
+      "telefono": "45665099",
+      "nota": "Ayuda mucho a la empresa\n",
+      "id": 5
+    },
+    {
+      "nombre": "Eugenio",
+      "empresa": "Robotini",
+      "email": "correo@correo.com",
+      "telefono": "4646546546",
+      "nota": "Solicita atención constante",
+      "id": 6
+    }
+  ]
+}
